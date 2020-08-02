@@ -1,6 +1,7 @@
 import { teamDetails, teamMatches, teamNextMatches } from "./resources.ts";
 
 const displayTeam = (team: { id: string; name: string }) => {
+  console.log(team);
   const img = teamDetails.find((t) => t.id === team.id).crestUrl;
   return `<span><img src="${img}" height="15px" />${team.name}</span>`;
 };
@@ -13,7 +14,7 @@ const calcEmoji = (
     return `😐`;
   }
   if (isHome && score.fullTime.homeTeam > score.fullTime.awayTeam) {
-    return `😄`;
+    return `😄💙💛`;
   }
   return `😭`;
 };
