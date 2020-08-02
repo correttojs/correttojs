@@ -13,7 +13,5 @@
 
 ![Hellas](./logo.png) My favorite team last matches:
 
-Hellas Verona FC - SS Lazio: 1 - 5 😭 
-Hellas Verona FC - SPAL 2013: 3 - 0 😄 
-
+Hellas Verona FC - SS Lazio: 1 - 5 😭 <br/>Hellas Verona FC - SPAL 2013: 3 - 0 😄 <br/>
 
