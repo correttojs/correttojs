@@ -1,4 +1,10 @@
-### Hi there 👋, I'm Fabio 
+
+## Caffè corretto ☕🥃
+Caffè corretto, an Italian beverage, consists of a shot of espresso with a small amount of liquor, usually grappa, and sometimes sambuca or brandy. It is also known (outside Italy) as an "espresso corretto".
+
+Most Italian bartenders prepare a caffè corretto simply adding a few drops of the desired liquor into an espresso shot; however in some cases the liquor is served in a shot alongside the coffee allowing the customer to pour the quantity they desire. A few bartenders also let their regular customers make their drink themselves providing the espresso shot and the bottle of liquor.
+
+The Italian word corretto reminds the (supposed) soundness of my code
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
