@@ -2,13 +2,13 @@ import { config } from "https://deno.land/x/dotenv/mod.ts";
 console.log(
   config()["AUTH_TOKEN"],
   ' config()["AUTH_TOKEN"]',
-  Deno.env.get("AUTH_TOKEN")
+  process.env.AUTH_TOKEN
 );
 const team = await fetch(
   "http://api.football-data.org/v2/teams/450/matches?status=FINISHED&limit=2",
   {
     headers: {
-      "X-Auth-Token": config()["AUTH_TOKEN"] || Deno.env.get("AUTH_TOKEN"),
+      "X-Auth-Token": config()["AUTH_TOKEN"],
     },
   }
 ).then((r) => r.json());
