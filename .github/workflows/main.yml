@@ -19,10 +19,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Setup Deno
-        uses: denolib/setup-deno@v2
+      - uses: denolib/setup-deno@v2
         with:
           deno-version: v1.x
+      - name: Update readme
       - run: |
           deno --version
-          deno run test.ts
+          deno run --allow-read --allow-write --allow-net test.ts
+          git config user.name correttojs
+          git config user.email fabio.benedetti+github@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[gh-action] Update README"
+          git push origin master
+     
