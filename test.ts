@@ -6,7 +6,11 @@ console.log(
 );
 const team = await fetch(
   "http://api.football-data.org/v2/teams/450/matches?status=FINISHED&limit=2",
-  { headers: { "X-Auth-Token": config()["AUTH_TOKEN"] } }
+  {
+    headers: {
+      "X-Auth-Token": config()["AUTH_TOKEN"] || Deno.env.get("AUTH_TOKEN"),
+    },
+  }
 ).then((r) => r.json());
 console.log(team);
 let matchesText = ``;
