@@ -25,3 +25,5 @@ The Italian word corretto reminds the (supposed) soundness of my code
 💙💛Hellas Verona next match:
 
 %{{next}}%
+
+Thanks ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno) for the auto updated page
