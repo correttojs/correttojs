@@ -20,7 +20,7 @@ team.matches.map((match: any) => {
         match.score.fullTime.homeTeam < match.score.fullTime.awayTeam
       ? `😭`
       : `😐`;
-  matchesText += `${match.homeTeam.name} - ${match.awayTeam.name}: ${match.score.fullTime.homeTeam} - ${match.score.fullTime.awayTeam} ${empjy} \n`;
+  matchesText += `${match.homeTeam.name} - ${match.awayTeam.name}: ${match.score.fullTime.homeTeam} - ${match.score.fullTime.awayTeam} ${empjy} <br/>`;
 });
 
 const decoder = new TextDecoder("utf-8");
