@@ -26,7 +26,7 @@ jobs:
       - run: |
           deno --version
           echo $AUTH_TOKEN
-          AUTH_TOKEN=${{ secrets.AUTH_TOKEN }} deno run --allow-read --allow-write --allow-net --allow-env test.ts
+          AUTH_TOKEN=${{ secrets.AUTH_TOKEN }} deno run --allow-read --allow-write --allow-net --allow-env index.ts
           git config user.name correttojs
           git config user.email fabio.benedetti+github@gmail.com
           git add README.md
