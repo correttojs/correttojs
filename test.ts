@@ -11,7 +11,7 @@ const team = await fetch(
 ).then((r) => r.json());
 console.log(team);
 let matchesText = ``;
-team.matches.map((match: any) => {
+team.matches.reverse().map((match: any) => {
   const empjy =
     match.homeTeam.id === 450 &&
     match.score.fullTime.homeTeam > match.score.fullTime.awayTeam
