@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correttojs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Hellas](./logo.png) My favorite team last matches:
+My favorite team last matches:
 
 Hellas Verona FC - SS Lazio: 1 - 5 😭 <br/>Hellas Verona FC - SPAL 2013: 3 - 0 😄 <br/>
 
