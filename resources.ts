@@ -28,6 +28,7 @@ const promises = teamMatches.matches.map((match: any) => {
 });
 
 promises.push(fetchJson(`/teams/450`));
+if( teamNextMatches?.matches?.length)
 promises.push(
   fetchJson(
     `/teams/${
