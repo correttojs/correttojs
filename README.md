@@ -22,7 +22,7 @@ The Italian word corretto reminds the (supposed) soundness of my code
 
 ### last matches:
 
-<span><img src="http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg" height="15px" />Genoa CFC</span> Genoa CFC - <span><img src="http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg" height="15px" />Hellas Verona FC</span>: 3 - 0 😭 <br/><span><img src="http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://upload.wikimedia.org/wikipedia/de/e/e7/SPAL_Ferrara.svg" height="15px" />SPAL 2013</span>: 3 - 0 😄💙💛 <br/><span><img src="http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://upload.wikimedia.org/wikipedia/de/4/47/Lazio_Rom.svg" height="15px" />SS Lazio</span>: 1 - 5 😭 <br/><span><img src="http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg" height="15px" />Torino FC</span> Torino FC - <span><img src="http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg" height="15px" />Hellas Verona FC</span>: 1 - 1 😐 <br/><span><img src="http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg" height="15px" />Atalanta BC</span>: 1 - 1 😐 <br/>
+
 
 ### next match:
 
