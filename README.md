@@ -22,7 +22,7 @@ The Italian word corretto reminds the (supposed) soundness of my code
 
 ### last matches:
 
-<span><img src="https://crests.football-data.org/450.svg" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/100.svg" height="15px" />AS Roma</span>: 0 - 0 😐 <br/>
+<span><img src="https://crests.football-data.org/450.svg" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/100.svg" height="15px" />AS Roma</span>: 3 - 0 😄💙💛 <br/>
 
 ### next match:
 
