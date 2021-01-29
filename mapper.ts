@@ -13,7 +13,11 @@ const calcEmoji = (
   if (score.fullTime.homeTeam === score.fullTime.awayTeam) {
     return `😐`;
   }
-  if (isHome && score.fullTime.homeTeam > score.fullTime.awayTeam) {
+
+  if (
+    (isHome && score.fullTime.homeTeam > score.fullTime.awayTeam) ||
+    (!isHome && score.fullTime.awayTeam > score.fullTime.homeTeam)
+  ) {
     return `😄💙💛`;
   }
   return `😭`;
