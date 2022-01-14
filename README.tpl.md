@@ -8,10 +8,11 @@ The Italian word corretto reminds the (supposed) soundness of my code
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+![Vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=Vercel)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 
 
