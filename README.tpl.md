@@ -11,7 +11,7 @@ The Italian word corretto reminds the (supposed) soundness of my code
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=Vercel)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 
