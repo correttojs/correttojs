@@ -27,6 +27,6 @@ The Italian word corretto reminds the (supposed) soundness of my code
 
 ### next match:
 
-
+<span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/108.png" height="15px" />FC Internazionale Milano</span> <br/>
 
 Thanks ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno) for the auto updated page
