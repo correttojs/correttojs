@@ -23,7 +23,7 @@ The Italian word corretto reminds the (supposed) soundness of my code
 
 ### last matches:
 
-<span><img src="https://crests.football-data.org/471.svg" height="15px" />US Sassuolo Calcio</span> US Sassuolo Calcio - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span>: 3 - 1 😭 <br/><span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/100.svg" height="15px" />AS Roma</span>: 2 - 1 😄💙💛 <br/><span><img src="https://crests.football-data.org/445.png" height="15px" />Empoli FC</span> Empoli FC - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span>: 0 - 1 😄💙💛 <br/>
+<span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/103.svg" height="15px" />Bologna FC 1909</span>: 0 - 0 😐 <br/><span><img src="https://crests.football-data.org/471.svg" height="15px" />US Sassuolo Calcio</span> US Sassuolo Calcio - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span>: 3 - 1 😭 <br/><span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/100.svg" height="15px" />AS Roma</span>: 2 - 1 😄💙💛 <br/><span><img src="https://crests.football-data.org/445.png" height="15px" />Empoli FC</span> Empoli FC - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span>: 0 - 1 😄💙💛 <br/>
 
 ### next match:
 
