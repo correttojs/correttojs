@@ -23,10 +23,10 @@ The Italian word corretto reminds the (supposed) soundness of my code
 
 ### last matches:
 
-<span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/7397.png" height="15px" />Como 1907</span>: 1 - 1 😐 <br/><span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/5890.png" height="15px" />US Lecce</span>: 1 - 1 😐 <br/><span><img src="https://crests.football-data.org/108.png" height="15px" />FC Internazionale Milano</span> FC Internazionale Milano - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span>: 1 - 0 😭 <br/><span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> Hellas Verona FC - <span><img src="https://crests.football-data.org/104.png" height="15px" />Cagliari Calcio</span>: 0 - 2 😭 <br/><span><img src="https://crests.football-data.org/100.png" height="15px" />AS Roma</span> AS Roma - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span>: 1 - 0 😭 <br/>
+
 
 ### next match:
 
-<span><img src="https://crests.football-data.org/445.png" height="15px" />Empoli FC</span> Empoli FC - <span><img src="https://crests.football-data.org/450.png" height="15px" />Hellas Verona FC</span> <br/>
+
 
 Thanks ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno) for the auto updated page
